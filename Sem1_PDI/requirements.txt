@@ -1,0 +1,10 @@
+google
+ipykernel
+ipywidgets
+matplotlib
+numpy
+opencv-python
+pillow
+requests
+seaborn
+utiles
